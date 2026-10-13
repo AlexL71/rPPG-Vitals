@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="rPPG Vitals logo">
+  <title>rPPG Vitals</title>
+  <rect width="256" height="256" rx="56" fill="#101418"/>
+  <!-- camera viewfinder corners -->
+  <g fill="none" stroke="#A9B1BA" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 84 V52 Q40 40 52 40 H84"/>
+    <path d="M172 40 H204 Q216 40 216 52 V84"/>
+    <path d="M216 172 V204 Q216 216 204 216 H172"/>
+    <path d="M84 216 H52 Q40 216 40 204 V172"/>
+  </g>
+  <!-- heart -->
+  <path transform="translate(50 54) scale(6.5)" fill="#E5484D"
+        d="M12,21.35l-1.45,-1.32C5.4,15.36 2,12.28 2,8.5 2,5.42 4.42,3 7.5,3c1.74,0 3.41,0.81 4.5,2.09C13.09,3.81 14.76,3 16.5,3 19.58,3 22,5.42 22,8.5c0,3.78 -3.4,6.86 -8.55,11.54L12,21.35z"/>
+  <!-- pulse wave -->
+  <path d="M58 128 H98 L112 100 L130 158 L146 112 L156 128 H198" fill="none" stroke="#F2F4F6"
+        stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

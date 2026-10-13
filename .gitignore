@@ -1,0 +1,30 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# data and models (large / private / downloadable)
+data/
+models/
+*.mp4
+*.avi
+
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+*.iml
+.kotlin/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# private: interview notes and screenshots showing a face
+PLAN.md
+docs/phone_screen_*.png
+

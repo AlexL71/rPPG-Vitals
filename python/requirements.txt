@@ -1,0 +1,7 @@
+# Tested with Python 3.13 on Windows (2026-10-14)
+numpy==2.5.4
+opencv-python==5.0.0.93
+mediapipe==0.10.35
+matplotlib==3.11.2
+scikit-image==0.26.0   # test photo for the end-to-end test and ROI check
+pytest==9.1.1

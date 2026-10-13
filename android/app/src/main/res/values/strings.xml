@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">rPPG Vitals</string>
+    <string name="bpm">BPM</string>
+    <string name="no_value">--</string>
+    <string name="reset">Reset</string>
+    <string name="lock_auto">Lock: auto</string>
+    <string name="lock_off">Lock: off</string>
+    <string name="record_start">Record</string>
+    <string name="record_stop">Stop rec</string>
+    <string name="share">Share CSV</string>
+    <string name="share_title">Share session CSV</string>
+    <string name="saved_to">Saved %1$s</string>
+    <string name="disclaimer">Demo only. Not a medical device.</string>
+    <string name="permission_needed">Camera permission is required to measure.</string>
+    <string name="camera_failed">Camera failed to start: %1$s</string>
+    <string name="no_front_camera">No front camera found.</string>
+
+    <string name="status_no_face">No face — look at the camera</string>
+    <string name="status_warming_up">Measuring… hold still for a few seconds</string>
+    <string name="status_moving">Hold still</string>
+    <string name="status_poor">Weak signal — add light on your face, hold still</string>
+    <string name="status_fair">OK signal</string>
+    <string name="status_good">Good signal</string>
+</resources>
